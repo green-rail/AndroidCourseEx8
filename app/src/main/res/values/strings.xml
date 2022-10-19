@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCourseEx8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_page1">Page 1</string>
+    <string name="title_page2">Page 2</string>
+    <string name="title_page3">Page 3</string>
+    <string name="main_fragment">Main Page</string>
+</resources>
